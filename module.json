@@ -15,12 +15,12 @@
     "cmsis-core-stm32f4"
   ],
   "dependencies": {
-    "cmsis-core": "*",
-    "mbed-hal-st-stm32f4": "~0.5.0"
+    "cmsis-core": "tridonic-com/cmsis-core#tridonic",
+    "mbed-hal-st-stm32f4": "tridonic-com/mbed-hal-st-stm32f4t#tridonic"
   },
   "targetDependencies": {
     "stm32f401xe": {
-      "cmsis-core-st-stm32f401xe": "~0.2.0"
+      "cmsis-core-stm32f401xe": "tridonic-com/cmsis-core-stm32f401xe#tridonic"
     },
     "stm32f429xi": {
       "cmsis-core-stm32f429xi": "~0.2.0"
