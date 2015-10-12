@@ -16,7 +16,7 @@
   ],
   "dependencies": {
     "cmsis-core": "tridonic-com/cmsis-core#tridonic",
-    "mbed-hal-st-stm32f4": "tridonic-com/mbed-hal-st-stm32f4t#tridonic"
+    "mbed-hal-st-stm32f4": "tridonic-com/mbed-hal-st-stm32f4#tridonic"
   },
   "targetDependencies": {
     "stm32f401xe": {
