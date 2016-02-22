@@ -1,6 +1,6 @@
 {
   "name": "cmsis-core-stm32f4",
-  "version": "1.0.4-tri-0.0.2",
+  "version": "1.0.4-tri-0.0.5",
   "description": "CMSIS Core module for STM32F4xx microcontrollers",
   "keywords": [
     "mbed",
@@ -19,8 +19,8 @@
   ],
   "dependencies": {
     "uvisor-lib": "^1.0.0",
-    "cmsis-core": "tridonic-com/cmsis-core#1.1.0-tri-0.0.2",
-    "mbed-hal-st-stm32f4": "tridonic-com/mbed-hal-st-stm32f4#1.1.0-tri-0.0.2"
+    "cmsis-core": "tridonic-com/cmsis-core#1.1.0-tri-0.0.5",
+    "mbed-hal-st-stm32f4": "tridonic-com/mbed-hal-st-stm32f4#1.1.0-tri-0.0.5"
   },
   "targetDependencies": {
     "stm32f401xe": {
